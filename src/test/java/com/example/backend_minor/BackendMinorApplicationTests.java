@@ -10,7 +10,7 @@ class BackendMinorApplicationTests {
 
     @Test
     void contextLoads() {
-        assertEquals(5, 5);
+        assertEquals(5, 4);
     }
 
 }
